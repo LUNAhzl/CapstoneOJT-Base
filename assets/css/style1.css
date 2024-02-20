@@ -1,0 +1,31 @@
+#left-sidebar{
+    background-color: #3a4851;
+    color: #f3f3f4;
+}
+
+#left-sidebar-nav{
+    background-color: #3a4851;
+    margin-left: -75px;
+}
+
+#left-sidebar-nav a{
+    padding: 10px;
+}
+#left-sidebar-nav li.g_heading{
+    padding: 10px;
+}
+
+nav ul li a span{
+	color:#f3f3f4;
+}
+nav ul li :hover{
+    background-color: #85ce36;
+    margin: 0;
+}
+
+.auth{
+	background-color: red;
+	position: absolute;
+	width: 100px;
+	
+}
