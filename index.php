@@ -111,7 +111,7 @@
               <h2>About Us</h2>
               <h3>What is OJTime: OJT Records Management?</h3>
               <p>The OJTime Records Management System project is a system that allows organizations to keep track of and monitor students who 
-                undergo on-the-job training. The system will automate the keeping of the student trainee’s record for easy monitoring and 
+                undergo on-the-job training. The system will automate the keeping of the student trainee's record for easy monitoring and 
                 retrieval of data. In order to eliminate the problems encountered in the manual process, this project is to have systematic 
                 monitoring to the students for their on-the-job training.
               </p>
@@ -230,7 +230,7 @@
                     Rizal Street <br>
                     Iloilo City, 5000<br>
                     Iloilo, Philippines <br>
-                    <strong>Phone:</strong> 
+                    <strong>Phone:</strong>
                     +63 (033) 338-1071 (TEL NO) / +63 (033) 337-3743 (FAX) / +63 927-982-7512 / +63 950-402-8859 ( MOBILE)<br>
                     <strong>Email:</strong> info.ui@phinmaed.com<br>
                   </p>
